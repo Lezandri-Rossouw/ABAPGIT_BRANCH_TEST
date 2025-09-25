@@ -32,6 +32,7 @@ CLASS zlr_cl_test IMPLEMENTATION.
   METHOD feature2_imp.
 
     DATA(lv_string1) = 'THIS IS THE VERSION 1 feature 1 text'.
+    DATA(lv_new_string) = 'new test'.
 
   ENDMETHOD.
 
